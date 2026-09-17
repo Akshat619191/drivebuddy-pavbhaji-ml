@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
+data/dataset/images/
+data/dataset.zip
+data/__MACOSX/
